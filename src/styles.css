@@ -1,0 +1,12 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+s|Label {
+	font-size: 22;
+}
+
+.labelStyle {
+	color: #ff0000;
+	background-color: #00ff00;
+}
